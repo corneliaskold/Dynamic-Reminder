@@ -10,5 +10,6 @@ public enum TimeUnit {
     hour,
     day,
     week,
-    month;
+    month,
+    year;
 }
