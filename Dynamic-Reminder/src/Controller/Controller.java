@@ -66,7 +66,7 @@ public class Controller {
 
     private void updateGUI(){
 
-        //Cornelia testar
+        //Cornelia testar att ändra från IntelliJ i corneliabranch
     }
     public static void main(String[] args) {
         Controller controller = new Controller();
