@@ -6,6 +6,7 @@ import View.MainFrame;
 import View.ButtonType;
 import Model.*;
 //hej intellij
+//hejsan
 /**
  * @author Hanna My Jansson
  * @version 1.0
